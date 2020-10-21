@@ -96,7 +96,7 @@ App importante para la creación de vista de productos y shelfs.
 
 ### [yotpo](https://github.com/vtex-apps/yotpo)
 
-##  Product Apps
+##  Shelf Apps
 
 ### [Shelf](https://github.com/vtex-apps/shelf)
 
