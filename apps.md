@@ -104,7 +104,7 @@ App importante para la creación de vista de productos y shelfs.
 
 ### [Shelf components](https://github.com/vtex-apps/shelf-components)
 
-## Image apps
+## Image Apps
 
 ### [Store image](https://github.com/vtex-apps/store-image)
 
@@ -223,6 +223,68 @@ Centraliza la cola de peticiones hacia la API del Checkout y maneja un formulari
 ### [Omnichannel order status](https://github.com/vtex-apps/omnichannel-order-status)
 
 ### [Orders tracking example](https://github.com/vtex-apps/orders-tracking-example)
+
+## Integration Apps
+
+### [Wordpress integration](https://github.com/vtex-apps/wordpress-integration)
+
+### [Google tag manager](https://github.com/vtex-apps/google-tag-manager)
+
+### [Klaviyo pixel](https://github.com/vtex-apps/klaviyo-pixel)
+
+### [Brightedge integration](https://github.com/vtex-apps/brightedge-integration)
+
+### [Crowdin integration](https://github.com/vtex-apps/crowdin-integration)
+
+### [Blog interfaces](https://github.com/vtex-apps/blog-interfaces)
+
+### [Sidecar pixel](https://github.com/vtex-apps/sidecar-pixel)
+
+### [Zendesk chat](https://github.com/vtex-apps/zendesk-chat)
+
+### [Affirm payment](https://github.com/vtex-apps/affirm-payment)
+
+### [Pwa gtm pixel](https://github.com/vtex-apps/pwa-gtm-pixel)
+
+### []()
+
+### []()
+
+### []()
+
+### []()
+
+### []()
+
+### []()
+
+### []()
+
+### []()
+
+### []()
+
+### []()
+
+### []()
+
+### []()
+
+### []()
+
+### []()
+
+### []()
+
+### []()
+
+### []()
+
+### []()
+
+### []()
+
+### []()
 
 ### []()
 
