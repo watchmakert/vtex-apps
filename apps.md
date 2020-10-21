@@ -1,4 +1,4 @@
-# VTEX APPS
+# VTEX IO APPS
 
 ---
 
@@ -108,7 +108,7 @@ App importante para la creación de vista de productos y shelfs.
 
 ### [Store image](https://github.com/vtex-apps/store-image)
 
-## All Type Search apps
+## All Type Search Apps
 
 ### [Search](https://github.com/vtex-apps/search)
 
@@ -128,43 +128,59 @@ App importante para la creación de vista de productos y shelfs.
 
 ### [Indexer Listener](https://github.com/vtex-apps/Indexer-listener)
 
-### []()
+## Checkout/Cart Relationed Apps
 
-### []()
+### [Order placed](https://github.com/vtex-apps/order-placed)
+App for the orderPlaced page in IO Stores. It will replace checkout-confirmation-ui.
 
-### []()
+### [Checkout graphql](https://github.com/vtex-apps/checkout-graphql)
 
-### []()
+### [Checkout ui custom](https://github.com/vtex-apps/checkout-ui-custom)
 
-### []()
+### [Checkout](https://github.com/vtex-apps/checkout)
 
-### []()
+### [Checkout resources](https://github.com/vtex-apps/checkout-resources)
 
-### []()
+### [Checkout summary](https://github.com/vtex-apps/checkout-summary)
 
-### []()
+### [Checkout ui settings](https://github.com/vtex-apps/checkout-ui-settings)
 
-### []()
+### [Checkout coupon](https://github.com/vtex-apps/checkout-coupon)
 
-### []()
+### [Checkout shipping](https://github.com/vtex-apps/checkout-shipping)
 
-### []()
+### [Checkout cart](https://github.com/vtex-apps/checkout-cart)
 
-### []()
+### [Shipping calculator](https://github.com/vtex-apps/shipping-calculator)
 
-### []()
+### [Checkout old](https://github.com/vtex-apps/checkout-old)
 
-### []()
+### [Checkout components](https://github.com/vtex-apps/checkout-components)
 
-### []()
+### [Checkout fullstory](https://github.com/vtex-apps/checkout-fullstory)
 
-### []()
+### [Checkout profile](https://github.com/vtex-apps/checkout-profile)
 
-### []()
+### [Checkout splunk](https://github.com/vtex-apps/checkout-splunk)
 
-### []()
+### [Checkout cartman](https://github.com/vtex-apps/checkout-cartman)
 
-### []()
+### [Checkout payment](https://github.com/vtex-apps/checkout-payment)
+
+### [Checkout identification](https://github.com/vtex-apps/checkout-identification)
+
+### [Order manager](https://github.com/vtex-apps/order-manager)
+Centraliza la cola de peticiones hacia la API del Checkout y maneja un formulario de datos.
+
+### [Checkout ui settings server](https://github.com/vtex-apps/checkout-ui-settings-server)
+
+### [Storecomponents checkout ui settings]()
+
+### [Checkout button example](https://github.com/vtex-apps/checkout-button-example)
+
+### [Checkout step group](https://github.com/vtex-apps/checkout-step-group)
+
+### [Totalizer translator](https://github.com/vtex-apps/totalizer-translator)
 
 ### []()
 
