@@ -7,6 +7,8 @@
 ### [Store components](https://github.com/vtex-apps/store-components)
 
 Aquí encontramos componentes importantes como los relacionados al precio, descripción, atributos, imagenes y nombre del producto, también componentes como Image, InfoCard etc.
+~~InfoCard~~
+~~Image~~
 
 ### [App store components](https://github.com/vtex-apps/app-store-components)
 
