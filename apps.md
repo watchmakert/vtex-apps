@@ -24,7 +24,7 @@ estructura básica:
 >    ]
 >  }
 
-### [Slider layout](https://github.com/vtex-apps/slider-layout)
+### [~~Slider layout~~](https://github.com/vtex-apps/slider-layout)
 
 ### [Modal layout](https://github.com/vtex-apps/modal-layout)
 
@@ -151,6 +151,8 @@ App for the orderPlaced page in IO Stores. It will replace checkout-confirmation
 
 ### [Checkout cart](https://github.com/vtex-apps/checkout-cart)
 
+### [Minicart](https://github.com/vtex-apps/minicart)
+
 ### [Shipping calculator](https://github.com/vtex-apps/shipping-calculator)
 
 ### [Checkout old](https://github.com/vtex-apps/checkout-old)
@@ -275,6 +277,28 @@ Centraliza la cola de peticiones hacia la API del Checkout y maneja un formulari
 ### [Geolocation graphql interface](https://github.com/vtex-apps/geolocation-graphql-interface)
 
 ### [Google geolocation resolver](https://github.com/vtex-apps/google-geolocation-resolver)
+
+### []()
+
+### []()
+
+### []()
+
+### []()
+
+### []()
+
+### []()
+
+### []()
+
+### []()
+
+### []()
+
+### []()
+
+### []()
 
 ### []()
 
