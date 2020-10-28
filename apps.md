@@ -26,7 +26,7 @@ estructura básica:
 
 ### [~~Slider layout~~](https://github.com/vtex-apps/slider-layout)
 
-### [Modal layout](https://github.com/vtex-apps/modal-layout)
+### [~~Modal layout~~](https://github.com/vtex-apps/modal-layout)
 
 ### [Flex layout](https://github.com/vtex-apps/flex-layout)
 
