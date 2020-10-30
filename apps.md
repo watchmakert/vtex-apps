@@ -30,11 +30,11 @@ estructura básica:
 
 ### [~~Modal layout~~](https://github.com/vtex-apps/modal-layout)
 
-### [Flex layout](https://github.com/vtex-apps/flex-layout)
+### [~~Flex layout~~](https://github.com/vtex-apps/flex-layout)
 
 Flex layout permite organizar la página en filas y columnas
 
-### [Tab layout](https://github.com/vtex-apps/tab-layout)
+### [~~Tab layout~~](https://github.com/vtex-apps/tab-layout)
 
 ### [Stack layout](https://github.com/vtex-apps/stack-layout)
 
