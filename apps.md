@@ -36,7 +36,7 @@ Flex layout permite organizar la página en filas y columnas
 
 ### [~~Tab layout~~](https://github.com/vtex-apps/tab-layout)
 
-### [Stack layout](https://github.com/vtex-apps/stack-layout)
+### [~~Stack layout~~](https://github.com/vtex-apps/stack-layout)
 
 ### [Responsive layout](https://github.com/vtex-apps/responsive-layout)
 
